@@ -1,0 +1,490 @@
+CRITICAL - 2020-07-20 15:11:15 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:11:28 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:11:29 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:11:38 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:11:39 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:11:43 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:11:52 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:12:20 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:13:12 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:19:48 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:20:29 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:20:43 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:21:58 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:39:14 --> CodeIgniter\View\View::main(): Failed opening required 'ajax/ajax_lapor' (include_path='\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 15:40:07 --> CodeIgniter\View\View::main(): Failed opening required 'ajax/ajax_lapor' (include_path='\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 15:40:22 --> CodeIgniter\View\View::main(): Failed opening required 'ajax/ajax_lapor' (include_path='\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 15:48:06 --> Class 'App\Models\Crud_Model' not found
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:48:26 --> Using $this when not in object context
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 15:49:00 --> Non-static method App\Models\Crud_Model::all() should not be called statically
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 15:52:22 --> Cannot redeclare non static CodeIgniter\Model::$db as static App\Models\Crud_Model::$db
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 15:53:52 --> Cannot redeclare non static CodeIgniter\Model::$db as static App\Models\Crud_Model::$db
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 15:54:03 --> Call to undefined method App\Models\Crud_Model::all()
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-20 15:54:18 --> Non-static method App\Models\Crud_Model::all() should not be called statically
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 15:54:32 --> Call to a member function table() on null
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 15:55:02 --> Call to a member function table() on null
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 15:55:03 --> Call to a member function table() on null
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 16:01:27 --> Call to a member function table() on null
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 16:02:12 --> Trying to get property 'db' of non-object
+#0 C:\xampp\htdocs\pelaporan\app\Models\Crud_Model.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-20 16:02:24 --> syntax error, unexpected ';'
+#0 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): spl_autoload_call('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-20 16:02:33 --> Call to a member function table() on null
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 16:04:59 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): spl_autoload_call('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-20 16:05:13 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): spl_autoload_call('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-20 16:05:23 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): spl_autoload_call('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-20 16:06:45 --> Cannot redeclare non static CodeIgniter\Model::$db as static App\Models\Crud_Model::$db
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:07:14 --> Call to a member function table() on null
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 16:08:28 --> syntax error, unexpected ';', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): spl_autoload_call('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-20 16:08:36 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:09:24 --> Cannot redeclare non static CodeIgniter\Model::$builder as static App\Models\Crud_Model::$builder
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:09:43 --> Undefined variable: builde
+#0 C:\xampp\htdocs\pelaporan\app\Models\Crud_Model.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): App\Models\Crud_Model::all('petani')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-20 16:10:07 --> Cannot redeclare non static CodeIgniter\Model::$builder as static App\Models\Crud_Model::$builder
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:11:24 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:11:49 --> Cannot redeclare non static CodeIgniter\Model::$builder as static App\Models\Crud_Model::$builder
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:12:07 --> Access level to App\Models\Crud_Model::$builder must be protected (as in class CodeIgniter\Model) or weaker
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 16:18:00 --> Use of undefined constant assets - assumed 'assets' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\pelaporan\app\Views\Frontend\base\home.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/base/h...', Array, true)
+#3 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(10): view('Frontend/base/h...')
+#4 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#6 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(19): view('init/route', Array)
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#8 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#9 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-20 16:48:55 --> Class 'App\Controllers\CI_Controller' not found
+#0 C:\xampp\htdocs\pelaporan\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\pelaporan\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pitisan')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pitisan')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-20 16:49:20 --> Undefined property: App\Controllers\Pitisan::$input
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Pitisan.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Pitisan->__construct()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 16:52:55 --> Undefined property: App\Controllers\User_controller::$load
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 17:30:29 --> Undefined property: App\Controllers\User_controller::$load
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 17:31:28 --> Undefined property: App\Controllers\User_controller::$load
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 17:36:58 --> syntax error, unexpected '"', expecting ',' or ';'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/layout...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(7): view('Frontend/layout...')
+#2 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#4 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(18): view('init/route', Array)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-20 17:37:05 --> syntax error, unexpected '"', expecting ',' or ';'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/layout...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(7): view('Frontend/layout...')
+#2 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#4 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(18): view('init/route', Array)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-20 17:37:06 --> syntax error, unexpected '"', expecting ',' or ';'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/layout...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(7): view('Frontend/layout...')
+#2 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#4 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(18): view('init/route', Array)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-20 17:38:37 --> syntax error, unexpected 'alt' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/layout...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(7): view('Frontend/layout...')
+#2 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#4 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(18): view('init/route', Array)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-20 17:38:37 --> syntax error, unexpected 'alt' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/layout...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(7): view('Frontend/layout...')
+#2 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#4 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(18): view('init/route', Array)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-20 19:00:35 --> Too few arguments to function assets(), 0 passed in C:\xampp\htdocs\pelaporan\app\Views\Frontend\layout_user\header.php on line 12 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\app\Views\Frontend\layout_user\header.php(12): assets()
+#1 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/layout...', Array, true)
+#3 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(5): view('Frontend/layout...')
+#4 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#6 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(18): view('init/route', Array)
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#8 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#9 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-20 19:15:18 --> Cannot use CodeIgniter\Model as Model because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-20 19:15:52 --> Call to a member function connection() on null
+#0 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1308): Illuminate\Database\Eloquent\Model::resolveConnection(NULL)
+#1 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1114): Illuminate\Database\Eloquent\Model->getConnection()
+#2 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1031): Illuminate\Database\Eloquent\Model->newBaseQueryBuilder()
+#3 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1067): Illuminate\Database\Eloquent\Model->newModelQuery()
+#4 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1020): Illuminate\Database\Eloquent\Model->newQueryWithoutScopes()
+#5 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1010): Illuminate\Database\Eloquent\Model->newQuery()
+#6 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(488): Illuminate\Database\Eloquent\Model::query()
+#7 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): Illuminate\Database\Eloquent\Model::all('petani')
+#8 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#9 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#10 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2020-07-20 19:19:38 --> Call to a member function connection() on null
+#0 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1308): Illuminate\Database\Eloquent\Model::resolveConnection(NULL)
+#1 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1114): Illuminate\Database\Eloquent\Model->getConnection()
+#2 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1031): Illuminate\Database\Eloquent\Model->newBaseQueryBuilder()
+#3 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1067): Illuminate\Database\Eloquent\Model->newModelQuery()
+#4 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1020): Illuminate\Database\Eloquent\Model->newQueryWithoutScopes()
+#5 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(1010): Illuminate\Database\Eloquent\Model->newQuery()
+#6 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(488): Illuminate\Database\Eloquent\Model::query()
+#7 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(14): Illuminate\Database\Eloquent\Model::all('petani')
+#8 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#9 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#10 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2020-07-20 19:21:12 --> Undefined variable: db_config
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-20 19:24:07 --> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'petani' in 'field list' (SQL: select `petani` from `petani`)
+#0 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Connection.php(631): Illuminate\Database\Connection->runQueryCallback('select `petani`...', Array, Object(Closure))
+#1 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Connection.php(339): Illuminate\Database\Connection->run('select `petani`...', Array, Object(Closure))
+#2 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2203): Illuminate\Database\Connection->select('select `petani`...', Array, true)
+#3 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2191): Illuminate\Database\Query\Builder->runSelect()
+#4 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2686): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2192): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Builder.php(539): Illuminate\Database\Query\Builder->get(Array)
+#7 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Builder.php(523): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(489): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(15): Illuminate\Database\Eloquent\Model::all('petani')
+#10 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#11 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#12 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2020-07-20 20:01:16 --> SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pelaporan.petani' doesn't exist (SQL: select * from `petani`)
+#0 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Connection.php(631): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Connection.php(339): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2203): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2191): Illuminate\Database\Query\Builder->runSelect()
+#4 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2686): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Query\Builder.php(2192): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Builder.php(539): Illuminate\Database\Query\Builder->get(Array)
+#7 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Builder.php(523): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 C:\xampp\htdocs\pelaporan\vendor\illuminate\database\Eloquent\Model.php(489): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->index()
+#11 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#12 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#15 {main}

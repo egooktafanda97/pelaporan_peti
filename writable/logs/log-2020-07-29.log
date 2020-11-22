@@ -1,0 +1,73 @@
+CRITICAL - 2020-07-29 18:00:06 --> Call to protected App\Controllers\BaseController::__construct() from context 'CodeIgniter\CodeIgniter'
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2020-07-29 18:01:52 --> Call to protected App\Controllers\BaseController::__construct() from context 'CodeIgniter\CodeIgniter'
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2020-07-29 18:02:46 --> Call to protected App\Controllers\BaseController::__construct() from context 'CodeIgniter\CodeIgniter'
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2020-07-29 18:02:48 --> Call to protected App\Controllers\BaseController::__construct() from context 'CodeIgniter\CodeIgniter'
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2020-07-29 18:03:40 --> Call to protected App\Controllers\BaseController::__construct() from context 'CodeIgniter\CodeIgniter'
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2020-07-29 18:11:59 --> Undefined offset: 1
+#0 C:\xampp\htdocs\pelaporan\system\Router\Router.php(488): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 488, Array)
+#1 C:\xampp\htdocs\pelaporan\system\Router\Router.php(177): CodeIgniter\Router\Router->checkRoutes('/')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('/')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-29 18:18:24 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Home->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-29 18:22:24 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-29 18:22:27 --> Cannot call constructor
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\User_controller->__construct()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-29 20:17:50 --> Invalid file: Frontend/base/laporan.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Frontend/base/l...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/base/l...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(10): view('Frontend/base/l...')
+#3 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#5 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(27): view('init/route', Array)
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->laporan()
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#8 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}

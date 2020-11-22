@@ -1,0 +1,810 @@
+CRITICAL - 2020-08-03 00:50:44 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 00:51:18 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 00:52:03 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 00:52:04 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 00:52:10 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 00:52:33 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 01:17:25 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 01:17:57 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 01:19:19 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 01:20:56 --> Too few arguments to function App\Controllers\User_controller::LaporanUser(), 0 passed in C:\xampp\htdocs\pelaporan\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 01:26:12 --> Class 'App\Libraries\Exception' not found
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(27): App\Libraries\UnsafeCrypto::decrypt(false, true)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('q', 'NlJK8OZQv5EDS6f...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 01:35:56 --> Class 'App\Libraries\Exception' not found
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(27): App\Libraries\UnsafeCrypto::decrypt(false, true)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('aaOoas2cl37XiYG...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 01:36:44 --> Class 'App\Libraries\Exception' not found
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(27): App\Libraries\UnsafeCrypto::decrypt(false, true)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('aaOoas2cl37XiYG...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 01:37:31 --> Class 'App\Libraries\Exception' not found
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(27): App\Libraries\UnsafeCrypto::decrypt(false, true)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('aaOoas2cl37XiYG...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 01:38:21 --> Class 'App\Libraries\Exception' not found
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(28): App\Libraries\UnsafeCrypto::decrypt(false, true)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('aaOoas2cl37XiYG...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 01:38:22 --> Class 'App\Libraries\Exception' not found
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(28): App\Libraries\UnsafeCrypto::decrypt(false, true)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('aaOoas2cl37XiYG...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 01:39:37 --> openssl_decrypt(): IV passed is only 7 bytes long, cipher expects an IV of precisely 16 bytes, padding with \0
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'openssl_decrypt...', 'C:\\xampp\\htdocs...', 71, Array)
+#1 C:\xampp\htdocs\pelaporan\app\Libraries\UnsafeCrypto.php(71): openssl_decrypt('', 'aes-256-ctr', '4i\x18H\x91G\x91t\x91Bxe\x91q\x87...', 1, '<\xB04\xD4\xE3\n\xD0')
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\User_controller.php(28): App\Libraries\UnsafeCrypto::decrypt('<\xB04\xD4\xE3\n\xD0', true)
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\User_controller->LaporanUser('h4V4aZKBfoOVeg=...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_controller))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 18:42:04 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\pelaporan\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\pelaporan\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *, `user...', Array, false)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(25): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->index()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 18:42:06 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\xampp\htdocs\pelaporan\app\Views\errors\html\error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\xampp\\htdocs...', 100, Array)
+#1 C:\xampp\htdocs\pelaporan\app\Views\errors\html\error_exception.php(100): print_r(Object(App\Controllers\Admin\Admin), true)
+#2 C:\xampp\htdocs\pelaporan\system\Debug\Exceptions.php(308): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Debug\Exceptions.php(174): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 18:55:42 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 18:59:42 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 18:59:45 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 19:09:21 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 19:14:58 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 19:15:13 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 19:15:15 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 19:47:25 --> Call to undefined function Mpdf\Mpdf()
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 19:47:26 --> Call to undefined function Mpdf\Mpdf()
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 19:47:32 --> Call to undefined function Mpdf\Mpdf()
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 19:52:56 --> Cannot declare class App\Libraries\Mpdf because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:01:26 --> Cannot read an undeclared property Mpdf\Mpdf::$method
+#0 C:\xampp\htdocs\pelaporan\app\Libraries\LibMpdf.php(9): Mpdf\Mpdf->__get('method')
+#1 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(112): App\Libraries\LibMpdf->Out()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-08-03 20:04:47 --> Class 'App\Controllers\Admin\Mpdf' not found
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 20:04:54 --> Class 'App\Controllers\Admin\Mpdf' not found
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 20:04:55 --> Class 'App\Controllers\Admin\Mpdf' not found
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 20:05:10 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 113
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:08:16 --> Undefined variable: new
+#0 C:\xampp\htdocs\pelaporan\app\Views\admin\base\lap_penyelidikan.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/base/lap_...', Array, true)
+#3 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(112): view('admin/base/lap_...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-08-03 20:10:50 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:14:01 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:16:01 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:16:02 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 113
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:16:02 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 113
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:16:03 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 113
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:16:03 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 113
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:23:45 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:26:25 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 113
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(113): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:28:54 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:30:40 --> syntax error, unexpected 'width' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\pelaporan\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('admin/admin/pri...')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('admin/admin/pri...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:31:12 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 172
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(172): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:38:25 --> Invalid file: admin/admin/base/pilres_reqies.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:39:50 --> Invalid file: admin/admin/base/pilres_reqi.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:39:51 --> Invalid file: admin/admin/base/pilres_reqi.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:40:04 --> Invalid file: admin/admin/base/pilres_reqi.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:40:14 --> Invalid file: admin/admin/base/pilres_reqies.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:40:44 --> Invalid file: admin/admin/base/pilres_reqies.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:41:16 --> Invalid file: admin/admin/base/pilres_reqies.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/admin/bas...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/admin/bas...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): view('admin/admin/bas...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:42:46 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 C:\xampp\htdocs\pelaporan\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('admin/admin/pri...')
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('admin/admin/pri...')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:45:10 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:47:11 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:47:28 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 114
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:47:38 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 114
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:48:03 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 114
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(114): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 20:49:11 --> Call to undefined function assets()
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/base/pilr...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(111): view('admin/base/pilr...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 20:51:30 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 20:56:43 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 21:00:07 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 21:03:41 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-08-03 21:06:04 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 116
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(116): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:06:20 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 116
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(116): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:06:57 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 116
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(116): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:07:20 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 116
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(116): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:07:37 --> iconv(): Wrong charset, conversion from `UTF8,%3CSVG' to `UTF-8//TRANSLIT' is not allowed
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'iconv(): Wrong ...', 'C:\\xampp\\htdocs...', 13126, Array)
+#1 C:\xampp\htdocs\pelaporan\vendor\mpdf\mpdf\src\Mpdf.php(13126): iconv('UTF8,%3CSVG', 'UTF-8//TRANSLIT', '<!-- DEBUG-VIEW...')
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(115): Mpdf\Mpdf->WriteHTML('<!-- DEBUG-VIEW...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 21:08:50 --> iconv(): Wrong charset, conversion from `UTF8,%3CSVG' to `UTF-8//TRANSLIT' is not allowed
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'iconv(): Wrong ...', 'C:\\xampp\\htdocs...', 13126, Array)
+#1 C:\xampp\htdocs\pelaporan\vendor\mpdf\mpdf\src\Mpdf.php(13126): iconv('UTF8,%3CSVG', 'UTF-8//TRANSLIT', '<!-- DEBUG-VIEW...')
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(115): Mpdf\Mpdf->WriteHTML('<!-- DEBUG-VIEW...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 21:09:14 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 116
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(116): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:10:25 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:14:20 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('d')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:14:43 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:15:44 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:16:18 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:16:57 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:17:22 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:18:20 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:18:31 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:18:48 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:22:40 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:22:50 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:24:28 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/base/prev...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Views\init\__root.php(10): view('admin/base/prev...')
+#2 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/__root', Array, true)
+#4 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(70): view('init/__root', Array)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->preview('IUA2QBNF3L')
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-08-03 21:24:47 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('IUA2QBNF3L')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:25:04 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('IUA2QBNF3L')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:28:46 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('IUA2QBNF3L')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:32:50 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 122
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(122): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:47:41 --> Undefined variable: send
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 117, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->hasil()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:48:06 --> Undefined variable: ex
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 117, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->hasil()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 21:52:42 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\pelaporan\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-08-03 22:23:05 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('admin/base/logi...', Array, true)
+#1 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(25): view('admin/base/logi...', Array)
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->login()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-08-03 22:32:01 --> Undefined index: username
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->prosesLogin()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 22:32:23 --> Undefined index: username
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->prosesLogin()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 22:36:08 --> Trying to get property 'numRows' of non-object
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->prosesLogin()
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-08-03 22:36:52 --> Call to a member function getResultArray() on array
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->prosesLogin()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 22:37:04 --> Call to a member function getResultArray() on array
+#0 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->prosesLogin()
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-08-03 22:59:49 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\pelaporan\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(845): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(25): redirect('/login')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Admin\Admin->__construct()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 23:00:16 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\pelaporan\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(845): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(25): redirect('http://localhos...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Admin\Admin->__construct()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 23:00:17 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\pelaporan\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(845): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(25): redirect('http://localhos...')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Admin\Admin->__construct()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 23:03:54 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\pelaporan\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(845): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(25): redirect('/login')
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Admin\Admin->__construct()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-08-03 23:12:35 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\pelaporan\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(23): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(890): App\Controllers\Admin\Admin->__construct()
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#4 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-08-03 23:30:31 --> Argument 1 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type string, null given, called in C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php on line 214
+#0 C:\xampp\htdocs\pelaporan\app\Controllers\Admin\Admin.php(214): CodeIgniter\HTTP\RedirectResponse->to(NULL)
+#1 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Admin\Admin->print_laporn_pelapor('PLA01OMK0J')
+#2 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}

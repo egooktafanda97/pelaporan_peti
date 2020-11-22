@@ -1,0 +1,8 @@
+{
+    "require": {
+        "illuminate/database": "^7.20",
+        "phpmailer/phpmailer": "^6.1",
+        "mpdf/mpdf": "^8.0",
+        "tecnickcom/tcpdf": "^6.3"
+    }
+}

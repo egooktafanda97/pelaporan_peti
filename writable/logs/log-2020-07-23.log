@@ -1,0 +1,13 @@
+CRITICAL - 2020-07-23 20:41:49 --> Invalid file: Frontend/base/lapaor.php
+#0 C:\xampp\htdocs\pelaporan\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Frontend/base/l...')
+#1 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('Frontend/base/l...', Array, true)
+#2 C:\xampp\htdocs\pelaporan\app\Views\init\route.php(10): view('Frontend/base/l...')
+#3 C:\xampp\htdocs\pelaporan\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\pelaporan\system\Common.php(1119): CodeIgniter\View\View->render('init/route', Array, true)
+#5 C:\xampp\htdocs\pelaporan\app\Controllers\lapor.php(21): view('init/route', Array)
+#6 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(918): App\Controllers\Lapor->index()
+#7 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lapor))
+#8 C:\xampp\htdocs\pelaporan\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pelaporan\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pelaporan\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
